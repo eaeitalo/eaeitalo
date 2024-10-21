@@ -39,10 +39,10 @@ I hope we can have a good friendship. \o/
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/b1af1fc6-a2b8-460c-ba66-3f0ecf86f525" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
