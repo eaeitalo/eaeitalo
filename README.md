@@ -17,9 +17,8 @@
 <details>
   <summary>More about me</summary>
 
-  - I am 20 years old and currently live in Brazil. I have experience with Python, Java and Data Analysis, I am also a graphic designer and ex circus artist
- I like to read, whether it's a good book, manga or comics, I'm an enthusiastic cinephile and almost full of high valerian.
-I hope we can have a good friendship. \o/
+  - I am 20 years old and currently live in Brazil. I am a Programming student with a focus on backend development and a passion for creating efficient technological solutions. I have experience with Java, Python, PostgreSQL, and Spring, as well as knowledge of SQL. During my studies, I developed projects using PostgreSQL and improved practices such as Clean Code, testing, and version control with Git.
+I am seeking an opportunity as an intern or junior developer to contribute to dynamic teams, solve real-world problems, and grow in my career. My goal is to apply my knowledge, learn from experienced professionals, and evolve as a backend developer, contributing to innovative and impactful projects. \o/
 </details>
 
 <!-- Links -->
