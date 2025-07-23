@@ -1,4 +1,5 @@
 <!--título-->
+<!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
@@ -6,10 +7,10 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm  Italo Henri! A System Developer student from Brazil..
-
-  I’m currently studying Java
-
+  Hi 👋, I'm Italo Henri! A System Developer student from Brazil..
+  
+  I'm currently studying Java
+  
   I am looking for my first job opportunity.
 </p>
 
@@ -30,7 +31,7 @@ I am seeking an opportunity as an intern or junior developer to contribute to dy
 
 <!-- Portfolio -->
 ## Portfolio:
-- 
+- [ATM Simulator](https://github.com/eaeitalo/ATM-Simulator) - Sistema bancário com Java e PostgreSQL
 - 
 - 
 - 
@@ -43,17 +44,15 @@ I am seeking an opportunity as an intern or junior developer to contribute to dy
 
 ## Skills
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+<div style="flex-basis: 48%;">
+  <h3>Programming Languages</h3>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
+</div>
+
+<!-- Skills: Tools & Frameworks -->
+<div style="flex-basis: 48%;">
+  <h3>Tools & Frameworks</h3>
+  <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
