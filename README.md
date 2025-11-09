@@ -51,4 +51,4 @@ RESTful API for social media platforms
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eaeitalo&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=eaeitalo&theme=dark&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
