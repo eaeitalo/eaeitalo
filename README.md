@@ -3,7 +3,7 @@
 # 💻
 
 ### Hey there, I'm Italo!  
-**Java Backend Developer** | **Spring** | **PostgreSQL**  
+**Java Backend Developer** | **Spring** | **PostgreSQL**  | **Microservices**
 
 _"Building robust systems one line at a time"_  
 
@@ -43,7 +43,11 @@ _"Building robust systems one line at a time"_
 ### 🚀 Featured Project  
 [**ATM Simulator**](https://github.com/eaeitalo/ATM-Simulator)  
 `Java` `JDBC` `Clean Code`  
-Complete banking system implementation  
+Complete banking system implementation 
+
+[**Social Midia API**](https://github.com/eaeitalo/social-media-api)
+`Java` `Spring Boot` `JWT` `PostgreSQL` `H2` `REST API` `Clean Code` `Tests`  
+RESTful API for social media platforms
 
 ---
 
