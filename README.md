@@ -7,7 +7,7 @@
 
 _"Building robust systems one line at a time"_  
 
-<img src="https://github.com/user-attachments/assets/b1af1fc6-a2b8-460c-ba66-3f0ecf86f525" width="450px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="https://github.com/user-attachments/assets/b1af1fc6-a2b8-460c-ba66-3f0ecf86f525" width="450px" style="border-radius: 9px; box-shadow: 0 3px 7px rgba(0,0,0,0.1);">
 
 </div>
 
