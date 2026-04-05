@@ -50,7 +50,7 @@ Complete banking system implementation
 RESTful API for social media platforms
 
 [**Appointment Scheduler**](https://github.com/eaeitalo/agendador-horarios)
-`Java` `Spring Boot`  `H2` `Clean Code`
+`Java` `Spring Boot`  `H2` `Clean Code`                                                                                                                                                                                                                 
 Complete appointment scheduling API
 
 ---
