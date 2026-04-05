@@ -49,6 +49,10 @@ Complete banking system implementation
 `Java` `Spring Boot` `JWT` `PostgreSQL` `H2` `REST API` `Clean Code` `Tests`  
 RESTful API for social media platforms
 
+[**Appointment Scheduler**](https://github.com/eaeitalo/agendador-horarios)
+`Java` `Spring Boot`  `H2` `Clean Code`
+Complete appointment scheduling API
+
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eaeitalo&theme=dark&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
